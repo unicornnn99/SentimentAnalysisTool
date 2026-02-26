@@ -13,6 +13,6 @@ IF NOT EXIST venv (
     call venv\Scripts\activate
 )
 
-streamlit run main_hf.py
+streamlit run app.py
 
 pause
